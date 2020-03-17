@@ -1,1 +1,1 @@
-Playing around with adding comments to the static site.  The intend is to use this repo to store comments.
+Repo to store comments for http://wrp.github.io
